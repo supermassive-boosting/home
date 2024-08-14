@@ -1,3 +1,10 @@
 {
-  "liveServer.settings.port": 5555
+  "less.compile": {
+    "compress": false,
+    "javascriptEnabled": true,
+    "out": "../css/index.css",
+    "outExt": ".css",
+    "relativeUrls": true,
+    "main": "_main.less"
+  }
 }
